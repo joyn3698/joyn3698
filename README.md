@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joyn3698
+- 👋 Hi, I’m Joy
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on any poject that mathes my skills.
