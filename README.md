@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joy
 -  I’m a Data Analyst
 -  I’m looking to collaborate on any poject that matches my skills.
--  How to reach me ...
 
 <!---
 joyn3698/joyn3698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
