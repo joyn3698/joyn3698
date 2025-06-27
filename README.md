@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joy
--  I’m an aspiring Data Analyst
--  I’m currently pursuing Masters in Data Analytics
+-  I’m a Data Analyst
 -  I’m looking to collaborate on any poject that matches my skills.
 -  How to reach me ...
 
